@@ -43,5 +43,5 @@
 
 Буду рад обратной связи, техническому интервью или код-ревью!
 
-[![Telegram](https://shields.io)](https://t.me/GreeNight)
-[![Email](https://shields.io)](mailto:Cherkalin_AF@mail.ru)
+* **Telegram:** [@GreeNight](https://t.me/GreeNight)
+* **Email:** [Cherkalin_AF@mail.ru](mailto:Cherkalin_AF@mail.ru)
