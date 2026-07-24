@@ -44,4 +44,4 @@
 Буду рад обратной связи, техническому интервью или код-ревью!
 
 * **Telegram:** [@GreeNight](https://t.me/GreeNight)
-* **Email:** [Cherkalin_AF@mail.ru](mailto:Cherkalin_AF@mail.ru)
+* **Email:** [Cherkalin_AF@mail.ru]
